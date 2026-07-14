@@ -10,7 +10,7 @@ A fun multiplication game for kids ages 6-10
 
 . ف الاخر بيقولك جبت كام من كام 
 
-طريثه التشغيل 
+طريقه التشغيل 
 
 ...bash 
 
